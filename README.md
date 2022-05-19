@@ -1,5 +1,11 @@
 # FirstAngularApp
 
+## (personal notes) Important !
+In this back-up project, I need to set up again the PWA (offline data from cache) and to set up AGAIN the CI/CD with GitHub.
+
+# (personal notes) CI/CD
+To set up again the CI/CD, please watch the video from teh course.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
