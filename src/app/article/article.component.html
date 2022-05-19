@@ -1,0 +1,9 @@
+<div *ngIf="this.article != null">
+    <p> Id N°{{this.article.getId()}} </p>
+    <p> Content: {{this.article.getContent()}} </p>
+    <p> Author: {{this.article.getAuthor()}} </p>
+    <p>
+        <a mat-raised-button routerLink="/author/{{this.article.getAuthor()}}">Author bio</a>
+    </p>
+    <button mat-raised-button color="warn" (click)="this.delete(this.article)">Delete</button>
+</div>

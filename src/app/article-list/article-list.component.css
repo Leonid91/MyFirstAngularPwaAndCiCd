@@ -1,0 +1,17 @@
+table {
+    width: 150%;
+    margin-top: 15px;
+}
+
+a {
+    margin: 3px;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 150%;
+}
+
+.mat-paginator {
+    width: 150%;
+}

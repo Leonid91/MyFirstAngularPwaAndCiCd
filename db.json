@@ -1,0 +1,72 @@
+{
+  "articleList": [
+    {
+      "title": "Title 2",
+      "content": "Lorem ipsum",
+      "author": "Author1, Author2",
+      "id": 2
+    },
+    {
+      "title": "Title 3",
+      "content": "Lorem ipsum",
+      "author": "Author1, Author2",
+      "id": 3
+    },
+    {
+      "title": "Title 4",
+      "content": "Lorem ipsum",
+      "author": "Author1, Author2",
+      "id": 4
+    },
+    {
+      "title": "Title 5",
+      "content": "Lorem ipsum",
+      "author": "Author1, Author2",
+      "id": 5
+    },
+    {
+      "title": "qwsddf",
+      "content": "qsdqsdqsd",
+      "author": "ATTTTTT",
+      "id": 12
+    },
+    {
+      "title": "qwsddf",
+      "content": "qsdqsdqsd",
+      "author": "ATTTTTT",
+      "id": 13
+    },
+    {
+      "title": "Art",
+      "content": "icle",
+      "author": "Leo",
+      "id": 14
+    },
+    {
+      "title": "Fake Title",
+      "content": "qsdqs",
+      "author": "sds",
+      "id": 15
+    },
+    {
+      "title": "qsqsqsqsqs",
+      "content": "qsds",
+      "author": "qsssss",
+      "id": 16
+    }
+  ],
+  "author": [
+    {
+      "id": "AuthorBio",
+      "bio": "AuthorBio"
+    },
+    {
+      "id": "fsdf",
+      "bio": "fsdf"
+    },
+    {
+      "id": "ATTTTTT",
+      "bio": "ATTTTTT"
+    }
+  ]
+}
